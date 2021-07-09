@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDo.Data", "ToDo.Data\ToDo.Data.csproj", "{808350E7-5CED-4D78-9C34-81CE5204207D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{084BCDFC-87A1-4FD0-99DC-FD310772B0DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{44D22AD5-35DB-41CC-91FA-F92CCA845F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{808350E7-5CED-4D78-9C34-81CE5204207D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808350E7-5CED-4D78-9C34-81CE5204207D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808350E7-5CED-4D78-9C34-81CE5204207D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808350E7-5CED-4D78-9C34-81CE5204207D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084BCDFC-87A1-4FD0-99DC-FD310772B0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084BCDFC-87A1-4FD0-99DC-FD310772B0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084BCDFC-87A1-4FD0-99DC-FD310772B0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084BCDFC-87A1-4FD0-99DC-FD310772B0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D22AD5-35DB-41CC-91FA-F92CCA845F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D22AD5-35DB-41CC-91FA-F92CCA845F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D22AD5-35DB-41CC-91FA-F92CCA845F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D22AD5-35DB-41CC-91FA-F92CCA845F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F24DE8D-7485-4806-8C9C-AF09A4710F8F}
+	EndGlobalSection
+EndGlobal
